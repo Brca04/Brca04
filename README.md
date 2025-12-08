@@ -27,7 +27,10 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 # CV
 <img width="50" height="50" alt="icons8-google-drive-50" src="https://github.com/user-attachments/assets/2a13fcbd-4014-48dd-9722-c740d28684e5" />
 
-
+# Contact information
+<img width="220" height="80" alt="image" src="https://github.com/user-attachments/assets/3aabadb1-8dbd-4149-9c5f-867fc9fa3d68" />
+<img width="220" height="80" alt="image" src="https://github.com/user-attachments/assets/f11b7662-e0bf-45cf-81de-de0271ca165c" />
+<img width="220" height="80" alt="image" src="https://github.com/user-attachments/assets/cec4d2a0-083e-4c08-8f9d-8b7dfc415a63" />
 </div>
 
 <!--
