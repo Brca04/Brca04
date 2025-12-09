@@ -11,26 +11,36 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 #
 ⚡ Fun fact: At the age of 12, I started coding so I could drive an mBot around the track we made at school, which then led me to learning Python and eventually into Computer Science.
 # Skills
-<img width="50" height="50" alt="icons8-git-50" src="https://github.com/user-attachments/assets/2354af47-5e29-448f-b21b-dd2b507ce1e7" />
-<img width="50" height="50" alt="icons8-visual-studio-50" src="https://github.com/user-attachments/assets/464a3ba2-db14-4d4b-8950-7bb2178411cd" />
-<img width="50" height="50" alt="icons8-intellij-50" src="https://github.com/user-attachments/assets/cc8127ac-0b9a-41e6-9384-1656d07be432" />
-<img width="50" height="50" alt="icons8-postgresql-50" src="https://github.com/user-attachments/assets/31e94a74-5d75-4614-815a-d2214df8b9b8" />
-<img width="50" height="50" alt="icons8-sql-80" src="https://github.com/user-attachments/assets/f5e1572a-85be-4bb7-82be-1014123eb879" />
-<img width="50" height="50" alt="icons8-node-js-64" src="https://github.com/user-attachments/assets/5bc45357-438d-4666-9c38-8fa35a9e74e6" />
-<img width="50" height="50" alt="icons8-css-50" src="https://github.com/user-attachments/assets/b52b3ce3-612b-401f-887e-61958b293eda" />
-<img width="50" height="50" alt="icons8-html5-50" src="https://github.com/user-attachments/assets/7d35c8f6-824d-4e98-b5be-de89b53cb48f" />
-<img width="50" height="50" alt="icons8-javascript-50" src="https://github.com/user-attachments/assets/ae5c304b-59de-4a0e-9e94-c252669fec88" />
-<img width="50" height="50" alt="icons8-c-50" src="https://github.com/user-attachments/assets/a6fe748d-498a-4192-b30a-0b330cca730a" />
-<img width="50" height="50" alt="letter-c_7437007" src="https://github.com/user-attachments/assets/d9f1043a-5090-47ca-8134-a3d42196e938" />
-<img width="50" height="50" alt="python_1822921" src="https://github.com/user-attachments/assets/e43ab65d-7c75-40e7-9a03-8d5363a49e51" />
+<img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/2048610a-d84d-412c-b539-7a3955766244" />
+<img width="48" height="48" alt="icons8-c-48" src="https://github.com/user-attachments/assets/fbe9dcab-074b-47bf-8679-5d161cf8a168" />
+<img width="48" height="48" alt="icons8-c-48 (1)" src="https://github.com/user-attachments/assets/39ee7e22-41cb-47e1-bd9a-8daf919bcf2e" />
+<img width="48" height="48" alt="icons8-java-48" src="https://github.com/user-attachments/assets/33deb1d0-6905-4be4-a403-0d2fd7fc57f9" />
+<img width="48" height="48" alt="icons8-sql-48" src="https://github.com/user-attachments/assets/6afa4b4f-ca51-4b7b-a862-057cbc7c19f9" />
+<img width="48" height="48" alt="icons8-assembly-48" src="https://github.com/user-attachments/assets/44820fc1-de96-4594-9d2a-bd79b982517e" />
+<img width="48" height="48" alt="icons8-html5-48" src="https://github.com/user-attachments/assets/6b55820c-84b7-41b7-9254-38d6af2ded44" />
+<img width="48" height="48" alt="icons8-css-48" src="https://github.com/user-attachments/assets/56f4a7c8-714e-4f7d-9cc9-2e97491e050d" />
+<img width="48" height="48" alt="icons8-js-48" src="https://github.com/user-attachments/assets/46dfa3af-8ff8-4339-8618-ecfbb49ea142" />
+<img width="48" height="48" alt="icons8-ejs-48" src="https://github.com/user-attachments/assets/568e9e82-9527-4240-bea9-48aa0a03a8ba" />
+<img width="48" height="48" alt="icons8-postgresql-48" src="https://github.com/user-attachments/assets/18b0c018-8848-445e-918f-3ac188c60db5" />
+<img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/a9eeb571-78b1-403b-8f4d-6370686411cf" />
+<img width="48" height="48" alt="icons8-intellij-idea-48" src="https://github.com/user-attachments/assets/45227217-eb62-49da-aa7a-af55b71825b2" />
+<img width="48" height="48" alt="icons8-git-48" src="https://github.com/user-attachments/assets/d04f8f93-d0ac-4780-ba7d-63d12eb95ab5" />
 
 # CV
 <img width="50" height="50" alt="icons8-cv-50" src="https://github.com/user-attachments/assets/bcf84d79-aa36-426b-8cc4-9f87b2575281" />
 
 # Contact information
-<img width="50" height="50" alt="icons8-gmail-50" src="https://github.com/user-attachments/assets/c02e22cf-923c-4502-a9fe-b0ba3caec603" />
-<img width="48" height="48" alt="icons8-outlook-48" src="https://github.com/user-attachments/assets/54bc3c10-fae3-4af2-98d4-a430cd8f948f" />
-<img width="50" height="50" alt="icons8-linkedin-50" src="https://github.com/user-attachments/assets/4e9eb783-7d6d-4219-b004-2498c70fd1dc" />
+<a href="mailto:bruno.cavor@gmail.com">
+  <img width="50" height="50" alt="Gmail" src="https://github.com/user-attachments/assets/c02e22cf-923c-4502-a9fe-b0ba3caec603" />
+</a>
+
+<a href="mailto:bruno.cavor@fer.hr">
+  <img width="48" height="48" alt="Outlook" src="https://github.com/user-attachments/assets/54bc3c10-fae3-4af2-98d4-a430cd8f948f" />
+</a>
+
+<a href="https://www.linkedin.com/in/bruno-cavor-2a189a302/" target="_blank">
+  <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/4e9eb783-7d6d-4219-b004-2498c70fd1dc" />
+</a>
 
 # Stats
 <p align="center">
