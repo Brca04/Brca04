@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi there! <br> <img src="https://github.com/user-attachments/assets/e3d1f8e8-c98d-4376-a7d4-fbdc86941b4f" height="30"/>
-
 My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Science at [FER](https://www.fer.unizg.hr/#). My main area of interest is AI and its applications in everyday life.
 
 #
@@ -9,8 +8,9 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 #
 🌱 I’m currently learning about machine learning, PyTorch, and data analysis.
 #
-⚡ Fun fact: At the age of 12, I started coding so I could drive an mBot around the track we made at school, which then led me to learning Python and eventually into Computer Science.
-# Skills
+⚡ Fun fact: At the age of 12, I started coding so I could drive mBot around the improvised track we made at school, which then led me to learning Python and eventually studying Computer Science.
+
+# Languages, Frameworks and Tools
 <img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/2048610a-d84d-412c-b539-7a3955766244" />
 <img width="48" height="48" alt="icons8-c-48" src="https://github.com/user-attachments/assets/fbe9dcab-074b-47bf-8679-5d161cf8a168" />
 <img width="48" height="48" alt="icons8-c-48 (1)" src="https://github.com/user-attachments/assets/39ee7e22-41cb-47e1-bd9a-8daf919bcf2e" />
@@ -27,7 +27,9 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 <img width="48" height="48" alt="icons8-git-48" src="https://github.com/user-attachments/assets/d04f8f93-d0ac-4780-ba7d-63d12eb95ab5" />
 
 # CV
+<a href="https://drive.google.com/drive/folders/1hGnjOuYrku4QlD7qvyb2yhJIGsy7RQxL?usp=drive_link">
 <img width="50" height="50" alt="icons8-cv-50" src="https://github.com/user-attachments/assets/bcf84d79-aa36-426b-8cc4-9f87b2575281" />
+</a>
 
 # Contact information
 <a href="mailto:bruno.cavor@gmail.com">
@@ -51,7 +53,10 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
  <img src="https://komarev.com/ghpvc/?username=Brca04&style=flat-square&color=lightgrey" />
 </p>
 
-  
+# Additional
+Since you’ve made it all the way down, here’s a riddle. <br>
+What do the numbers 11, 69 and 88 all have in common?
+
 </div>
 
 <!--
