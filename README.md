@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! <img src="https://github.com/user-attachments/assets/e3d1f8e8-c98d-4376-a7d4-fbdc86941b4f" height="30"/>
+# Hi there! <br> <img src="https://github.com/user-attachments/assets/e3d1f8e8-c98d-4376-a7d4-fbdc86941b4f" height="30"/>
 
 My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Science at [FER](https://www.fer.unizg.hr/#). My main area of interest is AI and its applications in everyday life.
 
@@ -25,12 +25,13 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 <img width="50" height="50" alt="python_1822921" src="https://github.com/user-attachments/assets/e43ab65d-7c75-40e7-9a03-8d5363a49e51" />
 
 # CV
-<img width="50" height="50" alt="icons8-google-drive-50" src="https://github.com/user-attachments/assets/2a13fcbd-4014-48dd-9722-c740d28684e5" />
+<img width="50" height="50" alt="icons8-cv-50" src="https://github.com/user-attachments/assets/bcf84d79-aa36-426b-8cc4-9f87b2575281" />
 
 # Contact information
-<img width="220" height="80" alt="image" src="https://github.com/user-attachments/assets/3aabadb1-8dbd-4149-9c5f-867fc9fa3d68" />
-<img width="220" height="80" alt="image" src="https://github.com/user-attachments/assets/f11b7662-e0bf-45cf-81de-de0271ca165c" />
-<img width="220" height="80" alt="image" src="https://github.com/user-attachments/assets/cec4d2a0-083e-4c08-8f9d-8b7dfc415a63" />
+<img width="50" height="50" alt="icons8-gmail-50" src="https://github.com/user-attachments/assets/c02e22cf-923c-4502-a9fe-b0ba3caec603" />
+<img width="48" height="48" alt="icons8-outlook-48" src="https://github.com/user-attachments/assets/54bc3c10-fae3-4af2-98d4-a430cd8f948f" />
+<img width="50" height="50" alt="icons8-linkedin-50" src="https://github.com/user-attachments/assets/4e9eb783-7d6d-4219-b004-2498c70fd1dc" />
+  
 </div>
 
 <!--
