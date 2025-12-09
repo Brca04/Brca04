@@ -31,6 +31,16 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 <img width="50" height="50" alt="icons8-gmail-50" src="https://github.com/user-attachments/assets/c02e22cf-923c-4502-a9fe-b0ba3caec603" />
 <img width="48" height="48" alt="icons8-outlook-48" src="https://github.com/user-attachments/assets/54bc3c10-fae3-4af2-98d4-a430cd8f948f" />
 <img width="50" height="50" alt="icons8-linkedin-50" src="https://github.com/user-attachments/assets/4e9eb783-7d6d-4219-b004-2498c70fd1dc" />
+
+# Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brca04&theme=default" />
+</p>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Brca04&style=flat-square&color=lightgrey" />
+</p>
+
   
 </div>
 
