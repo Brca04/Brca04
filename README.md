@@ -25,6 +25,7 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 <img width="48" height="48" alt="icons8-visual-studio-code-2019-48" src="https://github.com/user-attachments/assets/a9eeb571-78b1-403b-8f4d-6370686411cf" />
 <img width="48" height="48" alt="icons8-intellij-idea-48" src="https://github.com/user-attachments/assets/45227217-eb62-49da-aa7a-af55b71825b2" />
 <img width="48" height="48" alt="icons8-git-48" src="https://github.com/user-attachments/assets/d04f8f93-d0ac-4780-ba7d-63d12eb95ab5" />
+<img width="48" height="48" alt="icons8-figma-48" src="https://github.com/user-attachments/assets/d9518e48-5c9d-44a4-b735-ae1ece705aab" />
 
 # CV
 <a href="https://drive.google.com/drive/folders/1hGnjOuYrku4QlD7qvyb2yhJIGsy7RQxL?usp=drive_link">
