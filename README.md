@@ -6,7 +6,7 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 #
 🔭 I’m currently working on a web app for dog walkers, a simple car driving simulation, training AI models and more.
 #
-🌱 I’m currently learning about machine learning, PyTorch, and data analysis.
+🌱 I’m currently learning about machine learning about machine learning and data analysis.
 #
 ⚡ Fun fact: At the age of 12, I started coding so I could drive mBot around the improvised track we made at school, which then led me to learning Python and eventually studying Computer Science.
 
