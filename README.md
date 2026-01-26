@@ -4,7 +4,7 @@
 My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Science at [FER](https://www.fer.unizg.hr/#). My main area of interest is AI and its applications in everyday life.
 
 #
-🔭 I’m currently working on a web app for dog walkers, a simple car driving simulation, Discord bots and more.
+🔭 I’m currently working on a web app for dog walkers, a simple car driving simulation, training AI models and more.
 #
 🌱 I’m currently learning about machine learning, PyTorch, and data analysis.
 #
