@@ -8,7 +8,7 @@ My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Scien
 #
 🌱 I’m currently studying topics related to machine learning and data analysis.
 #
-⚡ Fun fact: At the age of 12, I started coding so I could drive mBot around the improvised track we made at school, which then led me to learning Python and eventually studying Computer Science.
+⚡ Fun fact: At the age of 12, I started coding so I could drive mBot around the improvised track we made at school, which then led me to learning Python and eventually studying at FER.
 
 # Languages, Frameworks and Tools
 <img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/2048610a-d84d-412c-b539-7a3955766244" />
