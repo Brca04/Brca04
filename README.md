@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! <br> <img src="https://github.com/user-attachments/assets/e3d1f8e8-c98d-4376-a7d4-fbdc86941b4f" height="30"/>
-My name is Bruno. I’m currently pursuing a Bachelor's degree in Computer Science at [FER](https://www.fer.unizg.hr/#). My main area of interest is AI and its applications in everyday life.
+My name is Bruno. I’m currently pursuing a Bachelor's degree in Computing at [FER](https://www.fer.unizg.hr/#). My main area of interest is AI and its applications in everyday life.
 
 #
 🔭 I’m currently working on a portfolio website, a simple car driving simulation, training AI models and more.
