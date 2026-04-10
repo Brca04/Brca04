@@ -4,11 +4,11 @@
 My name is Bruno. I’m currently pursuing a Bachelor's degree in Computing at [FER](https://www.fer.unizg.hr/#). My main area of interest is AI and its applications in everyday life.
 
 #
-🔭 I’m currently working on a portfolio website, a simple car driving simulation, training AI models and more.
+🔭 I’m currently working on a portfolio website, web-scraping bot, backdoor attacks on ML models and many more.
 #
-🌱 I’m currently studying topics related to machine learning and data analysis.
+🌱 I’m currently studying topics related to artificial inteligence and computer security.
 #
-⚡ Fun fact: At the age of 12, I started coding so I could drive mBot around the improvised track we made at school, which then led me to learning Python and eventually studying at FER.
+⚡ Fun fact: Since early age, I started coding so I could drive my mBot around the improvised track we made at school, which then led me to learning Python and eventually studying at FER.
 
 # Languages, Frameworks and Tools
 <img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/2048610a-d84d-412c-b539-7a3955766244" />
